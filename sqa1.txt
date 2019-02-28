@@ -1,0 +1,1 @@
+This is SQA1 file present in B2 branch::
